@@ -1,0 +1,10 @@
+function myFunction(a) {
+   
+   return typeof a
+}
+
+a = "hello"
+b = 123
+
+console.log(typeof a);
+console.log(typeof b);
